@@ -3,7 +3,7 @@ Hi there, I'm Eniola Adeogun 👋
 
                                                                         🚀 About Me
                                                                         
-I'm a mobile developer with [3] years of experience in developing high-performance, user-friendly, and feature-rich mobile applications for both iOS and Android platforms. I have a strong passion for exploring new technologies and keeping myself updated with the latest trends and industry practices.
+I'm a mobile developer with [4] years of experience in developing high-performance, user-friendly, and feature-rich mobile applications for both iOS and Android platforms. I have a strong passion for exploring new technologies and keeping myself updated with the latest trends and industry practices.
 
                                                                         🛠️ Skills
                                                                         
